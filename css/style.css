@@ -636,11 +636,12 @@ bottom: 5px;
 .body-heading {
     display: flex;
     justify-content: space-between;
-    width: 500px;
+    /* width: 500px; */
     font-size: 12px;
     font-weight: var(--font-weight-body-sm);
     color: var(--sec-color);
     padding-bottom: 20px;
+    padding-right: 113px;
     letter-spacing: 1px;
 }
 .body-heading p:nth-child(2) {
