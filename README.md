@@ -1,3 +1,4 @@
 # Dashboard
 is a Cryptocurrency Dashboard
-- static page HTML, CSS only
+- Static page HTML, CSS only.
+- is a Figma Design. 
